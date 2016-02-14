@@ -1,2 +1,0 @@
-*github.txt
-这是一个在github上创建的测试文件。
